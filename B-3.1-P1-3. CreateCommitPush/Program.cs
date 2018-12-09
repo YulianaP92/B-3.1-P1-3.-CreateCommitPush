@@ -10,6 +10,7 @@ namespace B_3._1_P1_3.CreateCommitPush
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
